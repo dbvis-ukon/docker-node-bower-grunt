@@ -1,4 +1,4 @@
-FROM node:boron-alpine
+FROM node:alpine
 LABEL MAINTAINER="Wolfgang Jentner <wolfgang.jentner@uni.kn>"
 
 
